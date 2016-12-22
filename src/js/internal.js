@@ -1,4 +1,10 @@
-/*!
- * Calculator
+/*
+ * Blocks initialization
  */
-//= partials/calculator.js
+$(document).ready(function(){
+	//= prebuild/blocksInitialize.js
+});
+/*
+ * Blocks
+ */
+//= prebuild/blocks.js
